@@ -1,0 +1,5 @@
+column,tau,se,p,ci_low,ci_high,boundaries,provenance
+(1) Baseline,-0.043819143559742216,0.05671302530297333,0.43973137628981035,-0.1549746306078787,0.06733634348839426,15,recomputed
+(2) Large boundaries,-0.04092185524861275,0.057789000947671386,0.478867432203271,-0.1541862158085997,0.07234250531137419,12,recomputed
+(3) Donut RD,-0.038,0.059,0.52,-0.154,0.078,NA,published values (restricted data not supplied)
+(4) 100 m bins,-0.041,0.061,0.501,-0.16,0.078,15,published values (restricted data not supplied)

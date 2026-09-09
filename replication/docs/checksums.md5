@@ -1,0 +1,8 @@
+9df5b021acc6fc177cc7a42c0b1d0407  data/public/hydraulic_polygons.gpkg
+51d30eacf21ca4c4f7f7920f7b65ab72  data/public/polygon_shift_crosswalk.csv
+718eb91f00b221257197ebbd5425611c  data/public/rationing_calendar.csv
+b2ffaf9dd6d78eac9c4e0c19eebc7abe  data/derived/boundary_estimates.csv
+e930daa371456e539a9eacbc2df08656  data/derived/boundary_estimates_with_counts.csv
+4fff42a5c25174cda6929465269e5ece  data/derived/panel_date_bin_pooled.csv
+603c7021b4e9d4e7c98f9627bcb924a0  data/derived/placebo_cutoffs_pooled.csv
+9bdf2c42a37f1d9b5dc93250573c352f  data/derived/unit_of_analysis_comparison.csv

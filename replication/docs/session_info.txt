@@ -1,0 +1,20 @@
+# Session information
+
+[TO BE COMPLETED BEFORE DEPOSIT]
+
+Run the following at the end of a clean replication and paste the output here.
+The journal's data editor will expect exact package versions.
+
+    R:      sessionInfo()
+    Python: python3 -m pip freeze
+    GDAL:   gdalinfo --version
+
+Recorded environment at the time of the reported results:
+
+    Operating system : macOS (Apple silicon)
+    R version        : [TO CONFIRM]
+    sf               : [TO CONFIRM]
+    rdrobust         : [TO CONFIRM]
+    rddensity        : [TO CONFIRM]
+    Python           : [TO CONFIRM]
+    geopandas        : [TO CONFIRM]

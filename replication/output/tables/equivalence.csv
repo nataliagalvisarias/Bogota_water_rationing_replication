@@ -1,0 +1,6 @@
+quantity,value
+MDE (incidents/boundary-day),0.1587964708483253
+MDE (% of baseline),7.822486248685975
+TOST p at 10% margin,0.0025019877979172156
+Tightest equivalence margin (% of baseline),6.753880242597463
+One-sided upper bound (% of baseline),3.3170612555859247
