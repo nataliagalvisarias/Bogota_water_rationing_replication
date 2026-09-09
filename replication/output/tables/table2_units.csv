@@ -1,4 +1,0 @@
-Approach,Unit,N_obs,Coef,SE,P_value
-❌ Polygon-day aggregation,Polygon × date,1581,-5.377,2.548,0.035
-✅ Binned (date-bin),Distance bin × date,26862,-0.003,0.101,0.973
-✅ Binned (avg across dates),Distance bin (avg),362,-0.048,0.077,0.535
